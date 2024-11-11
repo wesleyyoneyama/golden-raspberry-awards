@@ -2,7 +2,6 @@ package db.migration;
 
 import com.opencsv.*;
 import com.opencsv.exceptions.CsvException;
-import io.quarkus.logging.Log;
 import org.apache.commons.lang3.BooleanUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.flywaydb.core.api.migration.BaseJavaMigration;
